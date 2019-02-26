@@ -1,1 +1,19 @@
 
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "360 and VR test streams",
+
+	"channels": [		
+
+		
+		{
+			"name":"testing 1",
+			"url": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8"
+		}
+		
+
+
+
+	]
+
+}
