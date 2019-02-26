@@ -1,15 +1,44 @@
 
 {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
-	"title": "360 and VR test streams",
+	"title": "youtube sample media",
 
 	"channels": [		
 
 		
 		{
 			"name":"testing 1",
-			"url": "https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8"
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-85.mp4"
+		},
+		{
+			"name":"testing 2",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-86.mp4"
+		},
+		{
+			"name":"testing 3",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-87.mp4"
+		},
+		{
+			"name":"testing 4",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-88.mp4"
+		},
+		{
+			"name":"testing 5",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-89.mp4"
+		},
+		{
+			"name":"testing 6",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-8b.mp4"
+		},
+		{
+			"name":"testing 7",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-8c.mp4"
+		},
+		{
+			"name":"testing 8",
+			"url": "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/motion-20120802-8d.mp4"
 		}
+		
 		
 
 
