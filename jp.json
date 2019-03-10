@@ -30,6 +30,10 @@
             "name": "日本Cinefil WOWOW", 
             "url": "http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8"
         }, 
+         {
+            "name": "日本Japan Channel DX", 
+            "url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8"
+        }, 
         {
             "name": "韩国arirang", 
             "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
