@@ -1,0 +1,58 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "香港",
+
+	"channels": [		
+
+		
+		{
+			"name":"香港TVB财经台",
+			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
+		},
+		{
+			"name":"香港TVB财经台",
+			"url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8"
+		},
+		{
+			"name":"香港now tv",
+			"url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
+		},
+		{
+			"name":"600 news",
+			"url": "http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8"
+		},
+		{
+			"name": "香港31台",
+			"url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8"
+		},
+		{
+			"name": "香港32台",
+			"url": "http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8"
+		},
+		
+		{
+			"name":"香港开电视",
+			"url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+		},
+		
+
+		{
+			"name": "香港ViuTV99",
+			"url": "http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8"
+		},
+		{
+			"name": "香港亚视A1",
+			"url": "https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8"
+		},
+		{
+			"name": "香港亚视经典",
+			"url": "https://1c3aecd176429fae1962f229fd51b1d5.live.prod.hkatv.com/a2_cbr_lo.m3u8"
+		}
+		
+
+		
+		
+
+	]
+
+}
