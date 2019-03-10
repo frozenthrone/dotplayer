@@ -1,0 +1,42 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "英国",
+
+	"channels": [
+	
+	{
+			"name": "英国天空新闻台",
+			"url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+		},
+		
+		{
+			"name": "BBC One需英国梯子,下同",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8"
+},
+
+{
+			"name": "BBC Two HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8"
+},
+{
+			"name": "BBC Four HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8"
+},
+{
+			"name": "CBBC HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8"
+},
+{
+			"name": "CBeebies HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8"
+},
+{
+			"name": "BBC News HD",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8"
+}
+
+
+
+	]
+
+}
