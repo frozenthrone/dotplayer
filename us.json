@@ -1,0 +1,286 @@
+{
+	"uuid": "64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "欧美频道",
+	"channels": [
+
+		{
+			"name": "BLOOMBERG HD",
+			"url": "https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8"
+		},
+
+		{
+			"name": "彭博澳洲",
+			"url": "https://bblive-liveprodapnortheast.hs.llnwd.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
+		},
+		{
+			"name": "POP USA",
+			"url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master_2500.m3u8"
+		},
+
+		{
+			"name": "CBS News 1",
+			"url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+		},
+		{
+			"name": "CBS News 2",
+			"url": "https://www.cbsnews.com/common/video/dai_prod.m3u8"
+		},
+
+		{
+			"name": "ABC News",
+			"url": "https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8"
+		},
+
+		{
+			"name": "Weather Channel",
+			"url": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
+		},
+		{
+			"name": "RED BULL TV FHD",
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+		},
+		{
+			"name": "RED BULL HD",
+			"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+		},
+		{
+			"name": "RED BULL SD",
+			"url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+		},
+		{
+			"name": "Fox 2 WJBK Detroit",
+			"url": "https://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8"
+		},
+		{
+			"name": "Fox 2 KTVI St. Louis",
+			"url": "https://api.new.livestream.com/accounts/2075940/events/1701970/live.m3u8"
+		},
+		{
+			"name": "Fox 4 KSAS Kansas ",
+			"url": "https://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8"
+		},
+		{
+			"name": "Fox 5 WAGA Atlanta ",
+			"url": "https://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8"
+		},
+		{
+			"name": "Fox 5 WTTG Washington DC",
+			"url": "https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8"
+		},
+		{
+			"name": "Fox 5 WNYW New York",
+			"url": "https://api.new.livestream.com/accounts/6372917/events/2592483/live.m3u8"
+		},
+		{
+			"name": "Fox 5 KVVU Las Vegas",
+			"url": "https://api.new.livestream.com/accounts/6910894/events/2707630/live.m3u8"
+		},
+		{
+			"name": "Fox 6 WBRC Birmingham",
+			"url": "http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8"
+		},
+		{
+			"name": "Fox 6 WITI Milwaukee",
+			"url": "https://api.new.livestream.com/accounts/3312495/events/1960383/live.m3u8"
+		},
+
+		{
+			"name": "FOX 8 WVUE New Orleans",
+			"url": "https://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8"
+		},
+		{
+			"name": "Fox 8 WJW Cleveland",
+			"url": "https://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8"
+		},
+		{
+			"name": "Fox 8 WGHP Greensboro",
+			"url": "https://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8"
+		},
+		{
+			"name": "Fox 9 KMSP Minneapolis",
+			"url": "https://api.new.livestream.com/accounts/6396280/events/2598452/live.m3u8"
+		},
+		{
+			"name": "Fox 10 KSAZ Phoenix",
+			"url": "https://api.new.livestream.com/accounts/6140850/events/2549317/live.m3u8"
+		},
+		{
+			"name": "Fox 11 KTTV Los Angeles",
+			"url": "https://api.new.livestream.com/accounts/6140873/events/2549324/live.m3u8"
+		},
+		{
+			"name": "Fox 12 KPTV Portland",
+			"url": "https://api.new.livestream.com/accounts/6908462/events/2706967/live.m3u8"
+		},
+		{
+			"name": "Fox 13 WHBQ Memphis",
+			"url": "https://svc-lvanvato-cxtv-whbq.cmgvideo.com/whbq/564k/index.m3u8"
+		},
+		{
+			"name": "Fox 13 KSTU Salt Lake City",
+			"url": "https://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8"
+		},
+		{
+			"name": "Fox 13 WTVT Tampa Bay",
+			"url": "https://api.new.livestream.com/accounts/6180769/events/2557366/live.m3u8"
+		},
+		{
+			"name": "Fox 17 WXMI West Michigan",
+			"url": "https://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8"
+		},
+		{
+			"name": "Fox 17 KVRR Fargo",
+			"url": "https://api.new.livestream.com/accounts/21298478/events/6270111/live.m3u8"
+		},
+		{
+			"name": "Fox 19 WXIX Cincinnati",
+			"url": "https://api.new.livestream.com/accounts/12136532/events/3798375/live.m3u8"
+		},
+		{
+			"name": "Fox 22/7 Abc WFVX Bangor",
+			"url": "https://live.field59.com/wvii1/ngrp%3awvii1_all/chunklist_b1028000.m3u8"
+		},
+		{
+			"name": "Fox 23 KOKI Tulsa",
+			"url": "https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8"
+		},
+		{
+			"name": "Fox 25 WFXT Boston News",
+			"url": "https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/1864k/index.m3u8"
+		},
+		{
+			"name": "Fox 26 KRIV Houston",
+			"url": "https://api.new.livestream.com/accounts/6396012/events/2598382/live.m3u8"
+		},
+		{
+			"name": "Fox 29 WTXF Philadelphia",
+			"url": "https://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8"
+		},
+		{
+			"name": "Fox 31 KDVR Denver",
+			"url": "https://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8"
+		},
+		{
+			"name": "Fox 32 WFLD Chicago",
+			"url": "https://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8"
+		},
+		{
+			"name": "Fox 35 WOFL Orlando",
+			"url": "htts://api.new.livestream.com/accounts/6140902/events/2549335/live.m3u8"
+		},
+		{
+			"name": "Fox 36/WTOL 11 WUPW Toledo",
+			"url": "https://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8"
+		},
+		{
+			"name": "FOX 40 WLBT Jackson",
+			"url": "https://api.new.livestream.com/accounts/11595602/events/3707041/live.m3u8"
+		},
+		{
+			"name": "FOX 41 WDRB Louisville",
+			"url": "https://live.field59.com/wdrb/ngrp%3awdrb2_all/playlist.m3u8"
+		},
+		{
+			"name": "FOX 46 WJZY Charlotte",
+			"url": "https://api.new.livestream.com/accounts/6370805/events/3018821/live.m3u8"
+		},
+		{
+			"name": "FOX 48 WAFF",
+			"url": "https://api.new.livestream.com/accounts/12447210/events/3855383/live.m3u8"
+		},
+		{
+			"name": "Fox 51 WOGX Ocala and Gainesville",
+			"url": "https://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8"
+		},
+		{
+			"name": "Fox 54 WFXG",
+			"url": "https://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8"
+		},
+
+		{
+			"name": "美国芝加哥WGN9频道HD",
+			"url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
+		},
+
+		{
+			"name": "美国CGTN (Opt-1)",
+			"url": "http://live.cgtn.com/500/prog_index.m3u8"
+		},
+		{
+			"name": "美国CGTN (Opt-2)",
+			"url": "http://live.cgtn.com/1000/prog_index.m3u8"
+		},
+		{
+			"name": "美国Jewelry Television",
+			"url": "http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8"
+		},
+		{
+			"name": "美国Newsmax TV",
+			"url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+		},
+		{
+			"name": "美国TVW",
+			"url": "http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8"
+		},
+		{
+			"name": "美国VTV Channel 6 Colorado",
+			"url": "http://hls.ksl.com/t/strata/playlist.m3u8"
+		},
+		{
+			"name": "美国Weather Nation",
+			"url": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8"
+		},
+		{
+			"name": "美国本土NBC 11 News (Bay Area).",
+			"url": "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8"
+		},
+		{
+			"name": "美国本土NBC 5 News (Chicago)",
+			"url": "http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8"
+		},
+		{
+			"name": "美国本土WGN 9 News (Chicago)",
+			"url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8"
+		},
+		{
+			"name": "美国本土CBS 4 News (Indianapolis)",
+			"url": "http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8"
+		},
+		{
+			"name": "美国本土Channel 11 News WPXI (Pittsburgh)",
+			"url": "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
+		},
+		{
+			"name": "美国Beach TV - 30A",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+		},
+		{
+			"name": "美国Beach TV - Panama City",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8"
+		},
+		{
+			"name": "美国Beach TV - Pawleys Island",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+		},
+		{
+			"name": "加拿大CTV News Live 1",
+			"url": "http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8"
+		},
+		{
+			"name": "加拿大CTV News Live 2",
+			"url": "http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8"
+		},
+		{
+			"name": "加拿大CTV News Live 3",
+			"url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8"
+		},
+		{
+			"name": "加拿大CTV News Live 4",
+			"url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8"
+		}
+
+
+
+	]
+
+}
