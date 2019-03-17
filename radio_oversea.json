@@ -105,42 +105,68 @@
 		},
 		
 		{
-			"name":"RTI1577音乐台",
-			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti4/playlist.m3u8"
+			"name":"BloombergTV",
+			"url": "http://tunein.streamguys1.com/BloombergTV.m3u"
 		},
 
 		{
-			"name": "RTI1422台湾台",
-			"url": "http://live2.rti.org.tw/live/_definst_/rti/rti5/playlist.m3u8"
+			"name": "ESPNFantasySports",
+			"url": "http://tunein.streamguys1.com/ESPNFantasySports.m3u"
 		},
     {
-			"name":"CBC Radio 1",
-			"url": "http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8"
+			"name":"ESPNTV",
+			"url": "http://tunein.streamguys1.com/ESPNTV.m3u"
 		},
 
 		{
-			"name": "CBC Radio 2",
-			"url": "http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8"
+			"name": "StarTalkRadio",
+			"url": "http://tunein.streamguys1.com/StarTalkRadio.m3u"
+		},
+		{
+			"name": "TEDTalks",
+			"url": "http://tunein.streamguys1.com/TEDTalks.m3u"
+		},
+			{
+			"name": "WTFwithMarcMaron",
+			"url": "http://tunein.streamguys1.com/WTFwithMarcMaron.m3u"
+		},
+		{
+			"name": "auburn",
+			"url": "http://tunein.streamguys1.com/auburn.m3u"
+		},
+			{
+			"name": "bloomberg991",
+			"url": "http://tunein.streamguys1.com/bloomberg991.m3u"
+		},
+		{
+			"name": "cnbc",
+			"url": "http://tunein.streamguys1.com/cnbc.m3u"
+		},
+			{
+			"name": "foxnews",
+			"url": "http://tunein.streamguys1.com/foxnews.m3u"
+		},
+		{
+			"name": "marquette",
+			"url": "http://tunein.streamguys1.com/marquette.m3u"
 		},
 		
 		
 		{
-			"name": "ABC Radio Canberra",
-			"url": "http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8"
-		},
-		
-		{
-			"name": "ABC Jazz",
-			"url": "http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8"
+			"name": "msnbc-free",
+			"url": "http://tunein.streamguys1.com/msnbc-free.m3u"
 		},
 		{
-			"name": "ABC Multi-language service",
-			"url": "http://abcradiolivehls-lh.akamaihd.net/i/ramultilang1@176827/master.m3u8"
+			"name": "nebraska",
+			"url": "http://tunein.streamguys1.com/nebraska.m3u"
 		},
-		
 		{
-			"name": "ABC English service",
-			"url": "http://abcradiolivehls-lh.akamaihd.net/i/raeng1@433109/master.m3u8"
+			"name": "newmexico",
+			"url": "http://tunein.streamguys1.com/newmexico.m3u"
+		},
+		{
+			"name": "virginia",
+			"url": "http://tunein.streamguys1.com/virginia.m3u"
 		}
         ]
         }
