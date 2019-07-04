@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,testing 1
+https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+#EXTINF:-1 ,testing 2
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
