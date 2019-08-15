@@ -9,10 +9,10 @@
   A: subscription file supports txt ,m3u, and json.
 
 ### for txt file
-	  <code> 
+```
 ch1,https://www.example.com/channel1.m3u8
 ch2,https://www.example.com/channel2.m3u8
-</code>
+```
 
 ### for m3u file
 ```json
