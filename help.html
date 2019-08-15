@@ -30,9 +30,9 @@ ch2,https://www.example.com/channel2.m3u8
 	<h3>for m3u file </h3>
 	  <code> 
 #EXTM3U
-#EXTINF:-1 ,ch1
+#EXTINF:-1  tvg-logo="https://www.example.com/foo.png", ch1
 https://www.example.com/channel1.m3u8
-#EXTINF:-1 ,ch2
+#EXTINF:-1 tvg-logo="https://www.example.com/bar.png" ,ch2
 https://www.example.com/channel2.m3u8
   </code>
 <h3>for json file </h3>
@@ -43,10 +43,12 @@ https://www.example.com/channel2.m3u8
 	"channels": [
 		{
 			"name":"ch1",
+	   		"logo":"https://www.example.com/foo.png"
 			"url": "https://www.example.com/channel1.m3u8"
 		},
 		{
 			"name": "ch2",
+	                "logo":"https://www.example.com/bar.png"
 			"url": "https://www.example.com/channel2.m3u8"
 		}
 	]
@@ -74,9 +76,9 @@ https://www.example.com/channel2.m3u8
 
 	  <code> 
 #EXTM3U
-#EXTINF:-1 ,频道1
+#EXTINF:-1 tvg-logo="https://www.example.com/foo.png",频道1
 https://www.example.com/channel1.m3u8
-#EXTINF:-1 ,频道2
+#EXTINF:-1 tvg-logo="https://www.example.com/bar.png",频道2
 https://www.example.com/channel2.m3u8
   </code>
 <h3>json格式 </h3>
@@ -87,10 +89,12 @@ https://www.example.com/channel2.m3u8
 	"channels": [
 		{
 			"name":"频道1",
+	                "logo":"https://www.example.com/foo.png"
 			"url": "https://www.example.com/channel1.m3u8"
 		},
 		{
 			"name": "频道2",
+	                 "logo":"https://www.example.com/bar.png"
 			"url": "https://www.example.com/channel2.m3u8"
 		}
 	]
