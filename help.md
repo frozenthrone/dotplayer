@@ -31,12 +31,12 @@ https://www.example.com/channel2.m3u8
 	"channels": [
 		{
 			"name":"ch1",
-	   		"logo":"https://www.example.com/foo.png"
+	   		"logo":"https://www.example.com/foo.png",
 			"url": "https://www.example.com/channel1.m3u8"
 		},
 		{
 			"name": "ch2",
-	                "logo":"https://www.example.com/bar.png"
+	                "logo":"https://www.example.com/bar.png",
 			"url": "https://www.example.com/channel2.m3u8"
 		}
 	]
@@ -79,12 +79,12 @@ https://www.example.com/channel2.m3u8
 	"channels": [
 		{
 			"name":"频道1",
-	                "logo":"https://www.example.com/foo.png"
+	                "logo":"https://www.example.com/foo.png",
 			"url": "https://www.example.com/channel1.m3u8"
 		},
 		{
 			"name": "频道2",
-	                 "logo":"https://www.example.com/bar.png"
+	                 "logo":"https://www.example.com/bar.png",
 			"url": "https://www.example.com/channel2.m3u8"
 		}
 	]
