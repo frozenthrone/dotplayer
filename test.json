@@ -1,0 +1,37 @@
+
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "测试频道",
+
+	"channels": [		
+
+    {
+			"name":"日本nhk world",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",
+			"url": "http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8"
+		},
+
+		{
+			"name": "日本24news",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/jpnews24.png",
+			"url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+		},
+		 {
+			"name":"日本Family Gekijyo",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/Family-Gekijyo.png",
+			"url": "http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8"
+		},
+		{
+			"name":"日本History",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/history.png",
+			"url": "http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8"
+		}
+	
+	
+
+		
+		
+
+	]
+
+}
