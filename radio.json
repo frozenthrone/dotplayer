@@ -1,0 +1,23 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "电台",
+
+	"channels": [		
+		{
+			"name":"香港电台第1台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R1.png",
+			"url": "http://stm1.rthk.hk/radio1"
+		},
+		{
+			"name":"香港电台第2台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R2.png",
+			"url": "http://stm1.rthk.hk/radio2"
+		},
+		{
+			"name":"香港电台第3台",
+			"logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/radio/hk/radio_R3.png",
+			"url": "http://stm1.rthk.hk/radio3"
+		}
+    ]
+
+    }
