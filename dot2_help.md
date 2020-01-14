@@ -51,9 +51,9 @@ https://www.example.com/channel2.m3u8
  * uuid: 不要做任何改动
  * title: 可以自定义,这个是你导入后在列表里显示的名字
  * type: 支持tv，episode，radio,省却默认tv
- ** tv:电视直播，没有播放进度条，logo显示横向
- ** episode:电影剧集，有播放进度条，logo显示纵向
- ** radio:电台，logo显示正方形
+ 	* tv:电视直播，没有播放进度条，logo显示横向
+ 	* episode:电影剧集，有播放进度条，logo显示纵向
+ 	* radio:电台，logo显示正方形
  * channels: 你所有的频道列表
 
 
