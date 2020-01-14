@@ -1,22 +1,20 @@
+## 小点播放器2和1有什么区别
+1. 小点播放器2去除了1代的自定义频道添加，只保留订阅，更加方便管理。
+2. 所有订阅的频道保存到本地数据库，每次打开列表时速度更快
+3. 电视节目单功能
 
-## dotPlayer支持什么视频格式 
-dotPlayer主要用来播放m3u8，当然也支持其他格式，如mp4等,只支持http，不支持p2p，rtmp，rtsp
+
+## 小点播放器支持什么视频格式 
+主要用来播放m3u8，当然也支持其他格式，如mp4等,只支持http，不支持p2p，rtmp，rtsp
   
 ## 什么是订阅
-订阅是在线管理电视频道，一个订阅里面包括了很多电视频道，只要服务端更新，app端将自动更新， 免去在app端进行复杂的操作，管理。
+订阅是一个m3u或者json文件，保存在网络端，只需得到文件的直连链接，即可导出到小点播放器，免去在app端进行复杂的操作，管理。所有的管理都在网页端。
  
 ## 在线订阅文件的格式是什么
-目前订阅文件支持三种格式 
-1. txt
-2. m3u
-3. json
+目前订阅文件支持2种格式 
+1. m3u
+2. json
 
-### txt文本格式
-
-```json
-频道1,https://www.example.com/channel1.m3u8
-频道2,https://www.example.com/channel2.m3u8
-```
 ### m3u格式
 
 ```json
@@ -33,6 +31,7 @@ https://www.example.com/channel2.m3u8
   {
 	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
 	"title": "你的频道名字",
+	"type": "tv",
 	"channels": [
 		{
 			"name":"频道1",
@@ -47,10 +46,14 @@ https://www.example.com/channel2.m3u8
 	]
 }
 ```
-分成3个部分, uuid, title和 channels
+分成4个部分, uuid, title,type 和 channels
  
  * uuid: 不要做任何改动
  * title: 可以自定义,这个是你导入后在列表里显示的名字
+ * type: 支持tv，episode，radio,省却默认tv
+ ** tv:电视直播，没有播放进度条，logo显示横向
+ ** episode:电影剧集，有播放进度条，logo显示纵向
+ ** radio:电台，logo显示正方形
  * channels: 你所有的频道列表
 
 
