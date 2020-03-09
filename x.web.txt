@@ -1,0 +1,27 @@
+display_name=综艺
+type=portrait
+cat=episode
+page_number=36
+page1_url=https://lvv2.com/mv/cid-4
+page2_url_pre=https://lvv2.com/mv/cid-4/page-
+page2_url_suffix=none
+first_container_select=.content .spacer .row
+first_items_select=.post
+title_select=h4
+title_select_attr=none
+logo_select=img
+logo_select_attr=src
+first_url_select=.post-thumb
+first_url_select_attr=href
+logo_pre=none
+first_url_pre=https://lvv2.com
+realurl_regex=source src="([^"]+)
+second_flag=yes
+second_container_select=ul.stui-content__playlist
+second_items_select=li
+second_title_select=a
+second_title_select_attr=title
+second_url_select=a
+second_url_select_attr=href
+second_url_pre=https://lvv2.com
+second_url_suffix=none
